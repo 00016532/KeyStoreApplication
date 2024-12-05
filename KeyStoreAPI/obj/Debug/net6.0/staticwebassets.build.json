@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KqT32SfE5e0fF9kFutxscvQ5XcKOd7Q4k56Amc4NFkA=",
+  "Source": "KeyStoreAPI",
+  "BasePath": "_content/KeyStoreAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
